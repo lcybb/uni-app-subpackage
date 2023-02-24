@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t={data:()=>({title:"Hello Main"}),onShow(){console.log(e.wx$1.$subpackages)},methods:{}};const o=e._export_sfc(t,[["render",function(t,o,n,r,s,c){return{a:e.t(s.title)}}]]);wx.createPage(o);
